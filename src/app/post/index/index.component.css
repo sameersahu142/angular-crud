@@ -1,0 +1,8 @@
+td .btn{
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    margin-right: 2px;
+}
+td .btn:hover{
+    color: white;
+}
